@@ -1,0 +1,6 @@
+.vscode
+logs
+node_modules
+errorShots
+allure-report
+allure-results
